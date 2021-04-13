@@ -1,0 +1,34 @@
+﻿İsim: deneme1 - Puan: 800 - Tarih: 10-04-2021 16:24:38 - Kalan Süre: 3:23
+
+İsim: deneme2 - Puan: 2700 - Tarih: 10-04-2021 16:27:02 - Kalan Süre: 3:7
+
+İsim: deneme3 - Puan: 1100 - Tarih: 10-04-2021 16:30:44 - Kalan Süre: 3:17
+
+İsim: deneme4 - Puan: 400 - Tarih: 10-04-2021 18:07:32 - Kalan Süre: 2:45
+
+İsim: deneme5 - Puan: 3200 - Tarih: 10-04-2021 18:14:32 - Kalan Süre: 2:36
+
+İsim: deneme6 - Puan: 900 - Tarih: 10-04-2021 18:21:03 - Kalan Süre: 3:3
+
+İsim: deneme7 - Puan: 3100 - Tarih: 10-04-2021 18:22:34 - Kalan Süre: 3:6
+
+İsim: deneme8 - Puan: 3000 - Tarih: 10-04-2021 18:35:19 - Kalan Süre: 2:42
+
+İsim: deneme9 - Puan: 300 - Tarih: 10-04-2021 18:40:10 - Kalan Süre: 3:9
+
+İsim: deneme10 - Puan: 4600 - Tarih: 10-04-2021 18:43:34 - Kalan Süre: 2:54
+
+İsim: deneme11 - Puan: 600 - Tarih: 10-04-2021 18:50:25 - Kalan Süre: 3:20
+
+İsim: deneme12 - Puan: 200 - Tarih: 10-04-2021 18:54:44 - Kalan Süre: 3:2
+
+İsim: deneme13 - Puan: 800 - Tarih: 10-04-2021 22:20:28 - Kalan Süre: 2:25
+
+İsim: deneme14 - Puan: 2800 - Tarih: 10-04-2021 22:24:06 - Kalan Süre: 0:0
+
+İsim: deneme15 - Puan: 1300 - Tarih: 10-04-2021 22:29:41 - Kalan Süre: 3:38
+
+İsim: deneme16 - Puan: 0 - Tarih: 10-04-2021 22:33:14 - Kalan Süre: 3:43
+
+İsim: deneme21 - Puan: 6100 - Tarih: 13-04-2021 11:56:17 - Kalan Süre: 3:17
+
